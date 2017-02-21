@@ -1,0 +1,5 @@
+<resources>
+    <integer name="whipped_cream_addon">1</integer>
+    <integer name="chocolate_addon">2</integer>
+    <integer name="price_of_coffee">5</integer>
+</resources>

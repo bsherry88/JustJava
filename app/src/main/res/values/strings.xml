@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="thank_you_message">Amount Due: %s\nThank You!</string>
+    <string name="thank_you_empty">You didn\'t order anything!</string>
+    <string name="toppings_message">With the following toppings:</string>
+    <string name="topping_whipped_cream">Whipped Cream</string>
+    <string name="topping_chocolate">Chocolate</string>
+    <string name="name_hint">Name</string>
+    <string name="no_name_provided">No Name Provided</string>
+    <string name="order_not_processed">Order Not Processed!</string>
+</resources>
